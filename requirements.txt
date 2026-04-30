@@ -4,4 +4,3 @@ flask-socketio
 flask-cors
 python-dotenv
 gunicorn
-eventlet
